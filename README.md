@@ -1,2 +1,2 @@
 # NFL_Betting
-Learning how to properly use GitHub
+Learning how to use Python to analyze data
